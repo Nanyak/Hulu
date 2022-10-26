@@ -1,0 +1,154 @@
+.mini-card3 {
+    display: flex;
+    flex-wrap: wrap;
+    position: absolute;
+    top: 1100px;
+    left: 13%;
+    
+}
+.mini-card3 h2 {
+    color: white;
+    position: absolute;
+    z-index: 5;
+    top: -50px;
+    font-size: 19px;
+    left: 2%;
+}    
+.mini-card3 h3 {
+    position: absolute;
+    color: white;
+    top: 90%;
+}
+.mini-card3 p {
+    color: white;
+    position: absolute;
+    top: 111%;
+    font-size: 15px;
+}
+.mini113 {
+    width: 210px;
+    height: 120px;
+    border-radius: 20px;
+    background-image: url('https://img3.hulu.com/user/v3/artwork/d81adce9-115e-4fd0-ad84-36ff60ddcf96?base_image_bucket_name=image_manager&base_image=5d851493-f78f-412b-ada7-e013a587f9f8&size=600x338&format=jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    z-index: 5;
+    margin: 20px;
+} 
+.mini223 {
+    
+    width: 210px;
+    height: 120px;
+    border-radius: 20px;
+    background-image: url('https://img1.hulu.com/user/v3/artwork/c88bb35c-880b-437e-9187-ab59b52df1a2?base_image_bucket_name=image_manager&base_image=9fef0752-041f-4e59-ba3e-8f05c4f9c864&size=600x338&format=jpeg');
+    background-repeat: no-repeat;
+    background-size: cover; 
+    z-index: 5;
+   
+    margin: 20px;
+}  
+.mini3333 {
+    
+    width: 210px;
+    height: 120px;
+    border-radius: 20px;
+    background-image: url('https://img2.hulu.com/user/v3/artwork/781e35a3-a8e9-4d23-b2fd-f9076f72d0ab?base_image_bucket_name=image_manager&base_image=ac34ae85-dc61-4ec4-9615-c1c095156755&size=600x338&format=jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    z-index: 5; 
+   
+    margin: 20px;
+}  
+.mini443 {
+    
+    width: 210px;
+    height: 120px;
+    border-radius: 20px;
+    background-image: url('https://img.hulu.com/user/v3/artwork/845eca18-d4d6-46a3-a575-212f4b98fea3?base_image_bucket_name=image_manager&base_image=905986b1-3620-4aaf-b1e2-f94830c51bd3&size=600x338&format=jpeg');
+    background-repeat: no-repeat;
+    background-size: cover; 
+    z-index: 5;
+    margin: 20px;
+}  
+.mini-card7 {
+    display: flex;
+    flex-wrap: wrap;
+    position: absolute;
+    top: 1270px;
+    left: 13%;
+    
+}
+.mini-card7 h2 {
+    color: white;
+    position: absolute;
+    z-index: 5;
+    top: -50px;
+    font-size: 19px;
+    left: 2%;
+}    
+.mini-card7 h3 {
+    position: absolute;
+    color: white;
+    top: 90%;
+}
+.mini-card7 p {
+    color: white;
+    position: absolute;
+    top: 111%;
+    font-size: 15px;
+}
+.amini113 {
+    width: 210px;
+    height: 120px;
+    border-radius: 20px;
+    background-image: url('https://img2.hulu.com/user/v3/artwork/32a719cd-8429-447c-a5ea-efcadf407014?base_image_bucket_name=image_manager&base_image=fb705c70-2eaf-45a8-85dd-a374cc3d9d5f&size=600x338&format=jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    z-index: 5;
+    margin: 20px;
+} 
+.amini223 {
+    
+    width: 210px;
+    height: 120px;
+    border-radius: 20px;
+    background-image: url('https://img1.hulu.com/user/v3/artwork/0d388c08-dfb3-4cff-aaa9-1033208ccfd7?base_image_bucket_name=image_manager&base_image=c4ed872c-5157-4964-9cf8-1244142d8d75&size=600x338&format=jpeg');
+    background-repeat: no-repeat;
+    background-size: cover; 
+    z-index: 5;
+   
+    margin: 20px;
+}  
+.amini3333 {
+    
+    width: 210px;
+    height: 120px;
+    border-radius: 20px;
+    background-image: url('https://img2.hulu.com/user/v3/artwork/34a2b7c9-b985-4eee-a4e9-12c96c4096e2?base_image_bucket_name=image_manager&base_image=61df6f97-5e70-4ba1-9813-1cbb6cd28a5b&size=600x338&format=jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    z-index: 5; 
+   
+    margin: 20px;
+}  
+.amini443 {
+    
+    width: 210px;
+    height: 120px;
+    border-radius: 20px;
+    background-image: url('https://img.hulu.com/user/v3/artwork/d88fca8c-176b-460f-b40e-a6b68d3b4b1c?base_image_bucket_name=image_manager&base_image=9c2cccb0-e8b8-4b64-bfc2-1f5d58952521&size=600x338&format=jpeg');
+    background-repeat: no-repeat;
+    background-size: cover; 
+    z-index: 5;
+    margin: 20px;
+}  
+
+
+
+
+
+
+
+
+
+

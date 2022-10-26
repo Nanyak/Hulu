@@ -1,0 +1,146 @@
+.mini-card {
+    display: flex;
+    flex-wrap: wrap;
+    position: absolute;
+    top: 530px;
+    left: 13%;
+}
+.mini-card h2 {
+    color: white;
+    position: absolute;
+    z-index: 5;
+    top: -50px;
+    font-size: 19px;
+    left: 2%;
+}    
+.mini-card h3 {
+    position: absolute;
+    color: white;
+    top: 90%;
+}
+.mini-card p {
+    color: white;
+    position: absolute;
+    top: 111%;
+    font-size: 15px;
+}
+.mini1 {
+    width: 210px;
+    height: 120px;
+    border-radius: 20px;
+    background-image: url('https://img4.hulu.com/user/v3/artwork/bf5ed554-2be0-4eb9-bc50-f217d1582116?base_image_bucket_name=image_manager&base_image=119ec659-6e86-4645-a54f-ca1f9c7d507f&size=600x338&format=jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    z-index: 5;
+    margin: 20px;
+} 
+.mini2 {
+    
+    width: 210px;
+    height: 120px;
+    border-radius: 20px;
+    background-image: url('https://img.hulu.com/user/v3/artwork/ddd8ad99-9d42-44a9-8fd7-8918a938ba49?base_image_bucket_name=image_manager&base_image=0f772be1-ed5a-4822-a409-9329014a4192&size=600x338&format=jpeg');
+    background-repeat: no-repeat;
+    background-size: cover; 
+    z-index: 5;
+   
+    margin: 20px;
+}  
+.mini3 {
+    
+    width: 210px;
+    height: 120px;
+    border-radius: 20px;
+    background-image: url('https://img4.hulu.com/user/v3/artwork/226c1cc5-ecc9-4d26-83a6-40131a93ed19?base_image_bucket_name=image_manager&base_image=4708c10b-6d37-42b3-a067-4804b2d996e0&size=600x338&format=jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    z-index: 5; 
+   
+    margin: 20px;
+}  
+.mini4 {
+    
+    width: 210px;
+    height: 120px;
+    border-radius: 20px;
+    background-image: url('https://img1.hulu.com/user/v3/artwork/e2528c2e-ae34-4ee1-b81b-7ff3262a14c3?base_image_bucket_name=image_manager&base_image=a574d89e-76ec-4836-8785-02bfeb5adef1&size=600x338&format=jpeg');
+    background-repeat: no-repeat;
+    background-size: cover; 
+    z-index: 5;
+   
+    margin: 20px;
+}  
+.mini-card4 {
+    display: flex;
+    flex-wrap: wrap;
+    position: absolute;
+    top: 640px;
+    left: 13%;
+}
+.mini-card4 h2 {
+    color: white;
+    position: absolute;
+    z-index: 5;
+    top: -50px;
+    font-size: 19px;
+    left: 2%;
+}    
+.mini-card4 h3 {
+    position: absolute;
+    color: white;
+    top: 90%;
+}
+.mini-card4 p {
+    color: white;
+    position: absolute;
+    top: 111%;
+    font-size: 15px;
+}
+.amini1 {
+    width: 210px;
+    height: 120px;
+    border-radius: 20px;
+    background-image: url('https://img2.hulu.com/user/v3/artwork/2c4ae82e-2c1b-41d5-a651-82189d1c8b2c?base_image_bucket_name=image_manager&base_image=ea120849-e5a2-496c-a636-ef00832825d9&size=600x338&format=jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    z-index: 5;
+    margin: 20px;
+} 
+.amini2 {
+    
+    width: 210px;
+    height: 120px;
+    border-radius: 20px;
+    background-image: url('https://img4.hulu.com/user/v3/artwork/4800d468-b587-44de-bad8-2646588bfa6b?base_image_bucket_name=image_manager&base_image=80717f64-ba52-4f46-831b-14172b172f52&size=600x338&format=jpeg');
+    background-repeat: no-repeat;
+    background-size: cover; 
+    z-index: 5;
+   
+    margin: 20px;
+}  
+.amini3 {
+    
+    width: 210px;
+    height: 120px;
+    border-radius: 20px;
+    background-image: url('https://img3.hulu.com/user/v3/artwork/c5fec97e-4c47-4b46-b19f-c246d461f6d0?base_image_bucket_name=image_manager&base_image=ac5801fc-c8fe-462a-866d-c3330240c30f&size=600x338&format=jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    z-index: 5; 
+   
+    margin: 20px;
+}  
+.amini4 {
+    
+    width: 210px;
+    height: 120px;
+    border-radius: 20px;
+    background-image: url('https://img2.hulu.com/user/v3/artwork/19b9d405-40b2-483e-8e1f-e25fe10c7299?base_image_bucket_name=image_manager&base_image=1b17ce6f-7550-4c88-bbd5-5d94e0c89cc1&size=600x338&format=jpeg');
+    background-repeat: no-repeat;
+    background-size: cover; 
+    z-index: 5;
+   
+    margin: 20px;
+}  
+
+

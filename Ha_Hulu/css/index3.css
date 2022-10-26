@@ -1,0 +1,112 @@
+body {
+    background-color: #0b0c0f;
+    font-family: 'Times New Roman', Times, serif;
+}
+.text {
+    text-align: center;
+    
+    
+}
+.text h6 {
+    color: rgb(2, 88, 2);
+    font-size: 18px;
+    font-weight: bold;
+}
+.text h1 {
+    color: white;
+    font-size: 40px;
+}
+.text p {
+    color: white;
+    font-size: 18px;
+}
+.card {
+    display: flex;
+    flex-wrap: wrap;
+}   
+img {
+    position: relative;
+    width: 280px;
+    height: 424px;
+    margin: 20px;
+    top: -25px;
+    left: 25px;
+    z-index: -1;
+}
+.card p {
+    color: white;
+    
+}
+.card h4 {
+    font-size: 20px;
+    color: white;
+    
+}
+.text1 {
+    position: relative;
+    top: 110px;
+    left: 60px;
+}
+.text2 {
+    position: relative;
+    top: 110px;
+    left: 60px;
+}
+.text3 {
+    position: relative;
+    top: 110px;
+    left: 60px;
+}
+.text4 {
+    position: relative;
+    top: 110px;
+    left: 60px;
+    
+}
+#abc {
+   
+    display: none;
+}
+.js1 {
+    position: absolute;
+    z-index: 5;
+    width: 1077px;
+    height: 1600px;
+    background-image: url('https://images10.newegg.com/BizIntell/item/Gift%20Cards/Gift%20Cards%20-%20Online/32-417-006/1.jpg');
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-color: #0b0c0f;
+    top: 5%;
+    left: 10%;
+}
+#p {
+    color: white;
+    text-align: center;
+    font-size: 15px;
+}
+.fa-x {
+    position: absolute;
+    color: gray;
+    right: 15px;
+    top: 15px;
+    margin-top: 0;
+    font-size: 20px;
+}
+.straigh {
+    border: 0.2px solid rgba(197, 197, 197, 0.822);
+    width: 1075px;
+    height: 0px;
+}
+#h1 {
+    position: absolute;
+    color: white;
+    left: 7%;
+    top: 15%;
+}
+#h1 h1 {
+    font-size: 50px;
+}
+#h1 p {
+    font-size: 20px;
+}
+

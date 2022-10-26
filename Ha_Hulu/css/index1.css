@@ -1,0 +1,134 @@
+.mini-card1 {
+    display: flex;
+    flex-wrap: wrap;
+    position: absolute;
+    top: 800px;
+    left: 13%;
+    
+}
+.mini-card1 h3 {
+    position: absolute;
+    color: white;
+    top: 90%;
+}
+.mini-card1 p {
+    color: white;
+    position: absolute;
+    top: 111%;
+    font-size: 15px;
+}
+.mini11 {
+    
+    width: 210px;
+    height: 120px;
+    border-radius: 20px;
+    background-image: url('https://img1.hulu.com/user/v3/artwork/b2b1dc42-273f-4e3e-9e2c-10a313cc9b9b?base_image_bucket_name=image_manager&base_image=558d6f83-7ca2-43aa-b832-0d68544dbf56&size=600x338&format=jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    z-index: 5;
+    margin: 20px;
+   
+} 
+.mini22 {
+    
+    width: 210px;
+    height: 120px;
+    border-radius: 20px;
+    background-image: url('https://img4.hulu.com/user/v3/artwork/e8c26c94-e813-4160-b36e-1b367ebcebe8?base_image_bucket_name=image_manager&base_image=98f3e21d-90ef-477a-bc19-a5bf04a89525&size=600x338&format=jpeg');
+    background-repeat: no-repeat;
+    background-size: cover; 
+    z-index: 5;
+   
+    margin: 20px;
+}  
+.mini33 {
+    
+    width: 210px;
+    height: 120px;
+    border-radius: 20px;
+    background-image: url('https://img4.hulu.com/user/v3/artwork/fa5f662a-0922-4300-8ca8-647cd4d2b9db?base_image_bucket_name=image_manager&base_image=9aa0c179-99bb-472e-84da-eb5aa6d8715b&size=600x338&format=jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    z-index: 5; 
+   
+    margin: 20px;
+}  
+.mini44 {
+    
+    width: 210px;
+    height: 120px;
+    border-radius: 20px;
+    background-image: url('https://img.hulu.com/user/v3/artwork/74cadf34-75c4-4baf-952e-cf2c0ffa6d0a?base_image_bucket_name=image_manager&base_image=4db4ec78-f631-4ea2-8b01-9a985705e606&size=600x338&format=jpeg');
+    background-repeat: no-repeat;
+    background-size: cover; 
+    z-index: 5;
+   
+    margin: 20px;
+}
+.mini-card5 {
+    display: flex;
+    flex-wrap: wrap;
+    position: absolute;
+    top: 920px;
+    left: 13%;
+    
+}
+.mini-card5 h3 {
+    position: absolute;
+    color: white;
+    top: 90%;
+}
+.mini-card5 p {
+    color: white;
+    position: absolute;
+    top: 111%;
+    font-size: 15px;
+}
+.amini11 {
+    
+    width: 210px;
+    height: 120px;
+    border-radius: 20px;
+    background-image: url('https://img4.hulu.com/user/v3/artwork/72eec9c8-0164-4e0c-868a-b433960d7f93?base_image_bucket_name=image_manager&base_image=da5f29ad-d699-473d-b9b7-7ea6da946442&size=600x338&format=jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    z-index: 5;
+    margin: 20px;
+   
+} 
+.amini22 {
+    
+    width: 210px;
+    height: 120px;
+    border-radius: 20px;
+    background-image: url('https://img2.hulu.com/user/v3/artwork/345025ec-5022-4cca-a5f7-d3870fce96b3?base_image_bucket_name=image_manager&base_image=b90a3ec4-3348-48e7-8b32-bbeb572175a7&size=600x338&format=jpeg');
+    background-repeat: no-repeat;
+    background-size: cover; 
+    z-index: 5;
+   
+    margin: 20px;
+}  
+.amini33 {
+    
+    width: 210px;
+    height: 120px;
+    border-radius: 20px;
+    background-image: url('https://img4.hulu.com/user/v3/artwork/6eb88d15-22f0-4f7b-90aa-6933ddc2f90a?base_image_bucket_name=image_manager&base_image=c93a98fe-a72d-42de-b84f-398195ddb954&size=600x338&format=jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    z-index: 5; 
+   
+    margin: 20px;
+}  
+.amini44 {
+    
+    width: 210px;
+    height: 120px;
+    border-radius: 20px;
+    background-image: url('https://img1.hulu.com/user/v3/artwork/a580fd44-34ff-4a32-a647-10c6d6ead8b6?base_image_bucket_name=image_manager&base_image=eee0b6bb-2c53-4214-8718-3d47ebd62235&size=600x338&format=jpeg');
+    background-repeat: no-repeat;
+    background-size: cover; 
+    z-index: 5;
+   
+    margin: 20px;
+}    

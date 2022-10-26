@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Alaska Daily</title>
+    <link rel="stylesheet" href="CSS/index5.css">
+</head>
+<body>
+    <img src="https://img4.hulu.com/user/v3/artwork/bf5ed554-2be0-4eb9-bc50-f217d1582116?base_image_bucket_name=image_manager&base_image=119ec659-6e86-4645-a54f-ca1f9c7d507f&size=600x338&format=jpeg" alt="">
+    <div class="ha" id="ha">
+    <h1>Alaska Daily</h1>
+    <p>Eileen (Hilary Swank) is a journalist from New York who moves to Alaska for a clean start and who looks for redemption both personally and professionally after joining a daily metro newspaper in Anchorage. In the City of Anchorage, she works with another colleague at the newspaper, Roz Friendly, to complete and release reports on a crisis known as the Missing and murdered Indigenous persons Crisis in the state of Alaska.</p>
+    <ul>
+        <li><p><span>Đạo diễn:</span> Hilary Swank</p></li>
+        <li><p><span>Diễn viên:</span> Hilary Swank, Jeff Perry,...</p></li>
+        <li><p><span>Thể loại:</span> Phim truyền hình</p></li>
+        <li><p><span>Ngôn ngữ:</span> Tiếng anh</p></li>
+    </ul>
+    <button id="button">
+        <p>Xem Phim</p>
+    </button>
+    </div>
+    <div class="q123" id="q123">
+    <iframe id="video"
+        src="https://www.youtube.com/embed/tgbNymZ7vqY"></iframe>
+    <button id="exit"><p>Exit</p></button>
+    </div>
+
+</body>
+<script>
+    var button = document.getElementById("button");
+var video = document.getElementById("q123");
+var exit = document.getElementById("exit");
+var ha = document.getElementById("ha");
+
+button.onclick = function() {
+    ha.style.display = "none";
+    video.style.display = "block";
+}
+
+exit.onclick = function() {
+    ha.style.display = "block";
+    video.style.display = "none";
+}
+
+</script>
+</html>

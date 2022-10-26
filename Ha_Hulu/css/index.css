@@ -1,0 +1,144 @@
+#abc1 {
+    
+    display: none;
+}
+.js2 {
+    position: absolute;
+    z-index: 5;
+    width: 1077px;
+    height: 1800px;
+    background-image: url('https://pyxis.nymag.com/v1/imgs/44c/1de/0db70bc0ba55a401faf883d37170da7756-prey-still.rhorizontal.w700.jpg');
+    background-repeat: no-repeat;
+    
+    background-size: contain;
+    background-color: #0b0c0f;
+    top: 5%;
+    left: 10%;
+}
+#p1 {
+    color: white;
+    text-align: center;
+    font-size: 15px;
+}
+#close1 {
+    position: absolute;
+    color: white;
+    right: 15px;
+    top: 15px;
+    margin-top: 0;
+    font-size: 20px;
+}
+.straigh {
+    border: 0.2px solid rgba(197, 197, 197, 0.822);
+    width: 1075px;
+    height: 0px;
+}
+#h2 {
+    position: absolute;
+    color: white;
+    left: 7%;
+    top: 15%;
+}
+#h2 h1 {
+    font-size: 50px;
+}
+#h2 p {
+    font-size: 20px;
+}
+/* next 1 */
+
+#abc2 {
+   
+    display: none;
+}
+.js3 {
+    position: absolute;
+    z-index: 5;
+    width: 1077px;
+    height: 1600px;
+    background-image: url('https://hulu-matchmaker.s3.amazonaws.com/attachments/cl8y419njfass1v493tmysbl4-thehandmaidstale-modal-masthead-1600x900-2x-1.jpg');
+    background-repeat: no-repeat;
+    
+    background-size: contain;
+    background-color: #0b0c0f;
+    top: 5%;
+    left: 10%;
+}
+#p2 {
+    color: white;
+    text-align: center;
+    font-size: 15px;
+}
+#close2 {
+    position: absolute;
+    color: gray;
+    right: 15px;
+    top: 15px;
+    margin-top: 0;
+    font-size: 20px;
+}
+.straigh {
+    border: 0.2px solid rgba(197, 197, 197, 0.822);
+    width: 1075px;
+    height: 0px;
+}
+#h3 {
+    position: absolute;
+    color: white;
+    left: 7%;
+    top: 15%;
+}
+#h3 h1 {
+    font-size: 50px;
+}
+#h3 p {
+    font-size: 20px;
+}
+/* next3 */    
+#abc3 {
+   
+    display: none;
+}
+.js4 {
+    position: absolute;
+    z-index: 5;
+    width: 1077px;
+    height: 1600px;
+    background-image: url('https://www.ocs.fr/sites/default/files/styles/w1200_wide/public/news/HOTD-DRAGON-CERCLE-PERSO.webp?itok=SN1mzgpR');
+    background-repeat: no-repeat;
+    
+    background-size: contain;
+    background-color: #0b0c0f;
+    top: 5%;
+    left: 10%;
+}
+#p3 {
+    color: white;
+    text-align: center;
+    font-size: 15px;
+}
+#close3 {
+    position: absolute;
+    color: gray;
+    right: 15px;
+    top: 15px;
+    margin-top: 0;
+    font-size: 20px;
+}
+.straigh {
+    border: 0.2px solid rgba(197, 197, 197, 0.822);
+    width: 1075px;
+    height: 0px;
+}
+#h4 {
+    position: absolute;
+    color: white;
+    left: 7%;
+    top: 15%;
+}
+#h4 h1 {
+    font-size: 50px;
+}
+#h4 p {
+    font-size: 20px;
+}
